@@ -373,5 +373,3 @@ if __name__ == '__main__':
 
     show_results('BPP1_Further', [config_15])
     show_results('BPP2_Further', [config_25])
-
-# TODO: type hinting
